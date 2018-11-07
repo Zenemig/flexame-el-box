@@ -1,0 +1,27 @@
+{
+  "name": "flexame-el-box",
+  "version": "1.0.0",
+  "description": "Presentation for BeerJs Santiago, November 2018 edition at Ilógica (Santiago, Chile)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zenemig/flexame-el-box.git"
+  },
+  "keywords": [
+    "beerjs",
+    "flexbox",
+    "cleaver"
+  ],
+  "author": "Zenemig - Matías Giménez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zenemig/flexame-el-box/issues"
+  },
+  "homepage": "https://github.com/Zenemig/flexame-el-box#readme",
+  "dependencies": {
+    "cleaver": "^0.8.7"
+  }
+}
